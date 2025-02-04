@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\bin\Debug\net9.0\ProjectManagement.Shared.deps.json
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\bin\Debug\net9.0\ProjectManagement.Shared.dll
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\bin\Debug\net9.0\ProjectManagement.Shared.pdb
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.dll
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\refint\ProjectManagement.Shared.dll
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ProjectManagement.Shared.pdb
+C:\Users\User\RiderProjects\ProjectManagement\ProjectManagement.Shared\obj\Debug\net9.0\ref\ProjectManagement.Shared.dll
